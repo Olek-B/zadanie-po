@@ -1,0 +1,11 @@
+{
+    "newest":"1",
+    "user":{
+        "0":{
+            "firstName": "pomidor",
+            "lastName": "test",
+            "birthYear": 1999,
+            "group": "user"
+        }
+    }
+}
